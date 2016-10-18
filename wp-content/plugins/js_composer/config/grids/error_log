@@ -1,0 +1,1 @@
+[04-Oct-2016 10:38:45 Etc/GMT] PHP Fatal error:  Call to undefined function vc_map_integrate_shortcode() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/plugins/js_composer/config/grids/class-vc-grids-common.php on line 16

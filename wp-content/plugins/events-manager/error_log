@@ -1,0 +1,2 @@
+[04-Oct-2016 05:31:29 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/plugins/events-manager/em-posts.php on line 8
+[04-Oct-2016 05:32:20 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/plugins/events-manager/em-events.php on line 127

@@ -1,0 +1,6 @@
+[03-Oct-2016 14:50:32 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/page.php on line 7
+[03-Oct-2016 14:52:31 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/page.php on line 7
+[04-Oct-2016 07:48:57 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/functions.php on line 18
+[04-Oct-2016 07:50:43 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/page.php on line 7
+[06-Oct-2016 09:37:37 Etc/GMT] PHP Fatal error:  Call to undefined function locate_template() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/single-event.php on line 5
+[06-Oct-2016 09:37:51 Etc/GMT] PHP Fatal error:  Call to undefined function locate_template() in /home/jobswxec/public_html/news.wuhansocial.com/wp-content/themes/Newspaper/single-event.php on line 5
