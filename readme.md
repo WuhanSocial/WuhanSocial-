@@ -13,7 +13,7 @@ We want to make it easy for foreigners to fit in to the Wuhan life.
 3.we want develop features that will help us achieve this   
 
 #Links 
-1. [Site underdevelopment](news.wuhansocial.com/)
+1. [Site under development](http://wuhansocial.com)
 
 #Where to start 
 There are many things to start with   
